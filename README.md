@@ -1,2 +1,2 @@
 # Project-Jokes-Generator
-The quiz app designed using HTML, CSS and Vanilla Javascript. It fetched API from https://icanhazdadjoke.com
+The jokes generator app was designed using HTML, CSS, and Vanilla Java script. It fetches API from https://icanhazdadjoke.com and displays jokes on DOM randomly.
